@@ -10,7 +10,6 @@ A mobile-friendly web app to manage school attendance
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-schoolattend.lovable.app-4285F4?style=for-the-badge)](https://schoolattend.lovable.app)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Built with AI](https://img.shields.io/badge/Built_with-AI-blueviolet?style=for-the-badge)](https://schoolattend.lovable.app)
 [![Mobile Friendly](https://img.shields.io/badge/Mobile-Friendly-orange?style=for-the-badge)](#)
 
 </div>
@@ -31,7 +30,7 @@ A mobile-friendly web app to manage school attendance
 |-------|----------------|-----------|
 | ![Login](https://github.com/user-attachments/assets/178d8e63-79e4-4c21-a7cb-c64f97cd15b8) | ![Admin Dashboard](https://github.com/user-attachments/assets/62177f60-b55e-449b-ace7-0b68b0b0e623) | ![Menu](https://github.com/user-attachments/assets/5b27c83a-7354-470d-ad9c-37ef15aacce5) |
 
-| Teachers | Attendance Reports | Teacher Dashboard |
+| Teachers | Attendance Reports | Teacher Navigation |
 |----------|-------------------|------------------|
 | ![Teachers](https://github.com/user-attachments/assets/06915ee9-879a-4798-8536-469b72ca005a) | ![Reports](https://github.com/user-attachments/assets/42ef51c7-4178-4c31-80b0-f23e7b82f165) | ![Teacher](https://github.com/user-attachments/assets/d91fbb09-92ef-4567-98f3-695dba63a285) |
 
