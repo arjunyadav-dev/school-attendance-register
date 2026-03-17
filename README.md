@@ -36,7 +36,7 @@ A mobile-friendly web app to manage school attendance
 | ![Teachers](https://github.com/user-attachments/assets/06915ee9-879a-4798-8536-469b72ca005a) | ![Reports](https://github.com/user-attachments/assets/42ef51c7-4178-4c31-80b0-f23e7b82f165) | ![Teacher](https://github.com/user-attachments/assets/d91fbb09-92ef-4567-98f3-695dba63a285) |
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/d91fbb09-92ef-4567-98f3-695dba63a285](https://github.com/user-attachments/assets/f2d51293-40e6-4c17-a76d-bfe40fc783de)" width="250" />
+  <img src="https://github.com/user-attachments/assets/f2d51293-40e6-4c17-a76d-bfe40fc783de" width="250" />
   <br/>
   <em>Teacher main dashboard</em>
 </div>
